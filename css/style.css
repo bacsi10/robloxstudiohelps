@@ -1,0 +1,45 @@
+body {
+	margin:0;
+    background-color: #232323;
+    color: rgb(175, 175, 175);
+    
+}
+button{
+    background-color: gray;
+    border-color: whitesmoke;
+    scale: 5;
+    text-align: center;
+}
+#kezdes{
+ color: #912c2c;
+ text-align: center;
+ scale: 3;
+ text-align: center;
+}
+#kezdeshely{
+    color: #232323;
+    height: 7;
+    text-align: center;
+}
+#udv{
+    text-align: center;    
+}
+#hely{
+    color: #232323;
+    text-align: center;
+}
+#kozepre{
+    text-align: center;
+}
+#epitescim{
+    text-align: center;
+    scale: 3;
+    color: rgb(0, 55, 255);
+}
+
+*{
+	box-sizing: border-box
+}
+head {
+	
+}
